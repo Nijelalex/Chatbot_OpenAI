@@ -9,3 +9,5 @@ This Chatbot allows a document to be uploaded and then user can ask questions to
 3. FAISS is used for Vector store of embeddings and performing similarity search of user question. 
 4. The LLM model used is Open AI "gpt-3.5-turbo" which generates the response for the question. 
 
+In the below example, a product owner handbook was uploaded:
+![image](https://github.com/user-attachments/assets/737eb25c-a24f-40c3-ad03-edb0fb7dea93)
